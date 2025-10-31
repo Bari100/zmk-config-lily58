@@ -18,6 +18,11 @@
             key-positions = <0 1>;
             bindings = <&kp ESC>;
         };
+
+        third-layer {
+            bindings = <&lt 3 CAPSLOCK>;
+            key-positions = <52 55>;
+        };
     };
 
     behaviors {
